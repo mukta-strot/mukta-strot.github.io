@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+**this page is WIP**
 
-You can use the [editor on GitHub](https://github.com/mukta-strot/mukta-strot/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## welcome to mukta-strot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Mukta-strot is Marathi translation of English "open-source". It means that whatver information/tools you find here are free (as in freedom) and their source is open.
 
-### Markdown
+Open source means you can see how something was made, and free means you can modify it as per your needs and distribute it to others thus contributing to free and open software and data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Mukta-strot is a collection of information and tools made for Marathi speaking audience. (But we are open to other Indian languages also. In case you have something to say, please drop us a mail or start a discussion.)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mukta-strot/mukta-strot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
