@@ -1,10 +1,28 @@
-**this page is WIP**
+**+++++ this page is under development +++++**
 
-## welcome to mukta-strot
+---
+
+### Mukta-strot is a collection of information and tools in Marathi.
 
 Mukta-strot is Marathi translation of English "open-source". It means that whatver information/tools you find here are free (as in freedom) and their source is open.
 
-Open source means you can see how something was made, and free means you can modify it as per your needs and distribute it to others thus contributing to free and open software and data.
+Open source means you can see how something was made, and free means you can modify it as per your needs and distribute it to others.
 
-Mukta-strot is a collection of information and tools made for Marathi speaking audience. (But we are open to other Indian languages also. In case you have something to say, please drop us a mail or start a discussion.)
+---
 
+### projects
+
+- [मराठी शब्द (Marathi Shabd)](https://mukta-strot.github.io/marathi-shabd/) (under development)
+
+---
+
+**Note -**
+- We are looking for contributors in various areas. Please contact us if you would like to help with our cause.
+- We are open to other Indian languages also.
+
+
+### contact
+
+- email us at **mukta.strot** at **zohomail** dot **in**
+- [raise an issue](https://github.com/mukta-strot/mukta-strot.github.io/issues)
+- [join or start a discussion](https://github.com/mukta-strot/mukta-strot.github.io/discussions)
