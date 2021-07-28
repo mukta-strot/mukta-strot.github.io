@@ -4,7 +4,7 @@
 
 - [मराठी शब्द (Marathi Shabd)](https://mukta-strot.github.io/marathi-shabd/) (under development)
 
-some other projects/ideas that are right now in my head -
+**Other ideas** that are right now in my head. The list will keep on growing as I get more ideas.
 
 - geographical maps in Marathi (digital and printable)
 - star maps (astronomical maps) in Marathi (digital and printable)
@@ -38,15 +38,10 @@ All the information and tools you find here are free (as in freedom) and their s
 
 Open source means you can see how something was made, and free means you can modify it as per your needs and distribute it to others.
 
-### Inspriration
+### Inspiration
 
 - This project is mainly inspired by the challenges that I experienced and the 
 realisations that I had in the past couple of years. *(I will write it in detail
 sometime later.)*
 - Additionally while working on this, I also found [this thought provoking speech
   by महेश एलकुंचवार](https://youtu.be/Jg7UUU8R_Dc).
-
-
----
-
-**+++++ This page is under development +++++**
