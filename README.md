@@ -4,6 +4,13 @@
 
 - [मराठी शब्द (Marathi Shabd)](https://mukta-strot.github.io/marathi-shabd/) (under development)
 
+some other projects/ideas that are right now in my head -
+
+- geographical maps in Marathi (digital and printable)
+- star maps (astronomical maps) in Marathi (digital and printable)
+- a printable multilingual "handbook for pregnant mother and child care". (multilingual
+  means you can choose and print the book in any (or multiple) Indic languages you want.)
+
 ### Goal
 
 1. To improve and promote the use of unadulterated Marathi among its existing speakers.
