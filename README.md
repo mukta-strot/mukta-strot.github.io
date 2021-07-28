@@ -38,6 +38,15 @@ All the information and tools you find here are free (as in freedom) and their s
 
 Open source means you can see how something was made, and free means you can modify it as per your needs and distribute it to others.
 
+### Inspriration
+
+- This project is mainly inspired by the challenges that I experienced and the 
+realisations that I had in the past couple of years. *(I will write it in detail
+sometime later.)*
+- Additionally while working on this, I also found [this thought provoking speech
+  by महेश एलकुंचवार](https://youtu.be/Jg7UUU8R_Dc).
+
+
 ---
 
 **+++++ This page is under development +++++**
