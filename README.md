@@ -8,6 +8,7 @@
 
 - geographical maps in Marathi (digital and printable)
 - star maps (astronomical maps) in Marathi (digital and printable)
+- a printable multilingual वर्णमाला (alphabet chart with pictures) for school kids
 - a printable multilingual "handbook for pregnant mother and child care". (multilingual
   means you can choose and print the book in any (or multiple) Indic languages you want.)
 
