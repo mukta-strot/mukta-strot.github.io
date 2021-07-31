@@ -2,7 +2,10 @@
 
 ### Projects
 
-- [मराठी शब्द (Marathi Shabd)](https://mukta-strot.github.io/marathi-shabd/) (under development)
+- [मराठी वाचवा (Marathi Vachva)](https://mukta-strot.github.io/marathi-vachva/)  - A
+  project to help preserve the Marathi language
+  - [मराठी शब्द (Marathi Shabd)](https://mukta-strot.github.io/marathi-shabd/) An
+    English to Marathi thesaurus
 
 **Other ideas** that are right now in my head. The list will keep on growing as I get more ideas.
 
