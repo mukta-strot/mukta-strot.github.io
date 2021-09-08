@@ -11,6 +11,7 @@
 
 **इतर कल्पना** ज्या सध्या माझ्या डोक्यात आहेत.
 
+- [सॉफ्टवेअर/माहिती भाषांतर](localisation.md) - सॉफ्टवेअर व माहिती इंग्रजीतून मराठीत भाषांतर करणाऱ्या प्रकल्पांची यादी व मार्गदर्शन
 - मराठी भौगोलिक नकाशे (डिजिटल आणि छापण्यायोग्य)
 - मराठी खगोलशास्त्रीय नकाशे (डिजिटल आणि छापण्यायोग्य)
 - शालेय मुलांसाठी छापण्यायोग्य (शक्य असल्यास बहुभाषिक) वर्णमाला (चित्रांसह वर्णमाला सारणी)
@@ -32,6 +33,7 @@ An English to Marathi thesaurus
 
 **Other ideas** that are right now in my head.
 
+- [Software/information localisation](localisation.md) - List of software/data projects for localisation from English to Marathi, and some guidance.
 - geographical maps in Marathi (digital and printable)
 - star maps (astronomical maps) in Marathi (digital and printable)
 - a printable वर्णमाला (alphabet chart with pictures) for school kids (if possible
