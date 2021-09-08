@@ -1,0 +1,19 @@
+# भाषांतर (Language localisation)
+
+अनेक open source सॉफ्टवेअर हे इंग्रजी भाषे मध्ये असतात. ज्यांना इंग्रजी येत नाही अश्या लोकांना ते वापरायला येत नाही किंवा वापरायला अवघड जाते. अश्या वेळी हे सॉफ्टवेअर जर मराठी भाषेत वापरायला मिळाले तर सोयीचे पडते. 
+
+**इंग्रजी सॉफ्टवेअर, माहिती इत्यादींना दुसऱ्या भाषेत भाषांतर करून ते वापरायला उपलब्द करून देण्याच्या प्रक्रियेला इंग्रजीत "localisation" असे म्हणतात.**
+
+खालील यादी मध्ये भाषांतर करता येतील अशे काही सॉफ्टवेअर दिले आहेत. 
+
+- **Arduino IDE** (development environment for Arduino)
+- **Arduino Science Journal** mobile app (app to collect information from sensors in your mobile phone)
+- **Stellarium** (a planeterium for computer and mobile phone)
+- **Jitsi Meet** (web meeting application for computer and mobile phone)
+- **OSM iD editor** (Open Street Map's in-browser editor)
+- **JOSM** (Desktop editor application for OSM)
+- **OsmAnd Maps** (Offline maps for mobile phone based on OSM)
+
+ह्या सॉफ्टवेअर मध्ये भाषांतर करण्यासाठी आपल्याला त्यांच्या भाषांतर प्रकल्पामध्ये आपले खाते उघडून तिथे योगदान करता येईल. 
+
+ह्या पानावरची माहिती वेळोवेळी अद्ययावत केली जाईल. (भाषांतर कसे करता येईल, त्याची प्रक्रिया काय असते, भाषांतर प्रकल्पांचे दुवे इत्यादी वर भविष्यात अधिक माहिती इथे जोडली जाईल.)
